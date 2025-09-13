@@ -17,4 +17,16 @@ I am also interested in bringing science to the everyday person, which was the i
 
 ## Selected Experience
 
-# 
+# Research Experience Example
+
+My research experience comes from the experiments I run and the protocols I build as part of my udergraduate thesis and my traineeship.
+
+I have experience in wet lab techniques in the field of haematology; namely, preparation of blood samples, performing hemocompatibility assays and osmotic fragility tests, preparation and observation of microscope slides, and testing blood coagulation time. 
+
+Moreover, I presented my findings (link) at the 36th Annual Hellenic Haematology Congress, organized by the Hellenic Society of Haematology.
+
+# Teaching Experience Example
+
+I run "The Biomedicals", a blog and social media channels aimed to help bridge the gap between researchers and the general public.
+
+Additionally, I provide private tutoring to high-school students on the subjects of Biology, Haematology, and Immunology.

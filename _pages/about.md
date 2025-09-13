@@ -15,7 +15,10 @@ Under the guidance of Prof. Tsamesidis Ioannis, I completed my undergraduate the
 
 I am also interested in bringing science to the everyday person, which was the inspiration behing "The Biomedicals", a blog (link) and social media channels (link) aiming to make biology accessible - to everyone.
 
+---
+
 ## Selected Experience
+
 
 # Research Experience Example
 
@@ -24,6 +27,7 @@ My research experience comes from the experiments I run and the protocols I buil
 I have experience in wet lab techniques in the field of haematology; namely, preparation of blood samples, performing hemocompatibility assays and osmotic fragility tests, preparation and observation of microscope slides, and testing blood coagulation time. 
 
 Moreover, I presented my findings (link) at the 36th Annual Hellenic Haematology Congress, organized by the Hellenic Society of Haematology.
+
 
 # Teaching Experience Example
 

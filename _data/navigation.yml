@@ -20,14 +20,14 @@ main:
   - title: "Projects"
     url: projects/
 
-    - title: "CV"
+  - title: "CV"
     url: cv/
         
   - title: "Blog"
     url: https://thebiomedicals.com/
     
-  # - title: "CV"
+  #  title: "CV"
   #   url: /cv-json/
     
-  # title: # Guide
-  #  url: # markdown
+  #  title: # Guide
+  #   url: # markdown

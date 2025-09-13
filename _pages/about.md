@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-⚲ Dept. of Biomedical Sciences, International Hellenic University, Greece
-⚲ Dept. of Chemical, Biological, Pharmaceutical and Environmental Sciences, University of Messina, Italy
+⚲ Dept. of Biomedical Sciences, International Hellenic University, Greece | ⚲ Dept. of Chemical, Biological, Pharmaceutical and Environmental Sciences, University of Messina, Italy
 
 I am a final year Biomedical Sciences undergraduate student, currently performing a 12-month traineeship at University of Messina, funded by Erasmus+ grants.
 

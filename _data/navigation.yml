@@ -9,25 +9,15 @@
 
 main:
   - title: "Publications"
-    url: /publications/
-
-  # title: # Talks
-  #  url: # talks    
-
-  # title: # Teaching
-  #  url: # teaching    
+    url: /publications/  
     
   - title: "Projects"
     url: /projects/
-
+    
   - title: "CV"
     url: /cv/
-        
+    
   - title: "Blog"
     url: https://thebiomedicals.com/
-    
-  #  title: "CV"
-  #   url: /cv-json/
-    
-  #  title: # Guide
-  #   url: # markdown
+
+# There were also the categories "Talks", "Teaching", "Guide".

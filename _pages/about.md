@@ -9,6 +9,7 @@ redirect_from:
 
 ⚲ Dept. of Biomedical Sciences, International Hellenic University, Greece | ⚲ Dept. of Chemical, Biological, Pharmaceutical and Environmental Sciences, University of Messina, Italy
 
+![1749633905753.jpg] (/images/1749633905753.jpg){: .align-right width="300px"}
 I am a final year Biomedical Sciences undergraduate student, currently performing a 12-month traineeship at University of Messina, funded by Erasmus+ grants.
 
 Under the guidance of Prof. Tsamesidis Ioannis, I completed my undergraduate thesis titled "**Effects of *Achillea millefolium* on the physiology of red blood cells and platelets**". My research enabled me to gain significant experience in handling and analyzing blood samples, and the subsequent results.

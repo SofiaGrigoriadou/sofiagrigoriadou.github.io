@@ -9,7 +9,7 @@
 
 main:
   - title: "Publications"
-    url: publications/
+    url: /publications/
 
   # title: # Talks
   #  url: # talks    
@@ -18,10 +18,10 @@ main:
   #  url: # teaching    
     
   - title: "Projects"
-    url: projects/
+    url: /projects/
 
   - title: "CV"
-    url: cv/
+    url: /cv/
         
   - title: "Blog"
     url: https://thebiomedicals.com/

@@ -104,7 +104,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "https://raw.githubusercontent.com/SofiaGrigoriadou/sofiagrigoriadou.github.io/refs/heads/master/_sass/theme/cherry_red.scss" # "light" (default), "dark"
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"

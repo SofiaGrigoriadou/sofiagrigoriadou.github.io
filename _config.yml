@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "https://raw.githubusercontent.com/SofiaGrigoriadou/sofiagrigoriadou.github.io/refs/heads/master/_sass/theme/_cherry_red.scss" # Currently available options are "default", "air"
+site_theme               : "_cherry_red" # Currently available options are "default", "air"
 title                    : "Sofia Grigoriadou"
 title_separator          : "-"
 name                     : &name "Sofia Grigoriadou"

@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "_cherry_red" # Currently available options are "default", "air"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Sofia Grigoriadou"
 title_separator          : "-"
 name                     : &name "Sofia Grigoriadou"

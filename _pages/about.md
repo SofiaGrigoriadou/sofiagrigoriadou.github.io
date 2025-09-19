@@ -7,30 +7,28 @@ redirect_from:
   - /about.html
 ---
 
-⚲ Dept. of Biomedical Sciences, International Hellenic University, Greece | ⚲ Dept. of Chemical, Biological, Pharmaceutical and Environmental Sciences, University of Messina, Italy
-
+| ⚲ Dept. of Biomedical Sciences, International Hellenic University, Greece |
 ![1749633905753.jpg](/images/1749633905753.jpg){: .align-right width="300px"}
-I am a final year Biomedical Sciences undergraduate student, currently performing a 12-month traineeship at University of Messina, funded by Erasmus+ grants.
+
+I am a final year Biomedical Sciences undergraduate student, currently searching a research facility to perform a 12-month traineeship (obligatory to complete my degree), funded by Erasmus+ grants.
 
 Under the guidance of Prof. Tsamesidis Ioannis, I completed my undergraduate thesis titled "**Effects of *Achillea millefolium* on the physiology of red blood cells and platelets**". My research enabled me to gain significant experience in handling and analyzing blood samples, and the subsequent results.
 
-I am also interested in bringing science to the everyday person, which was the inspiration behing "The Biomedicals", a blog (link) and social media channels (link) aiming to make biology accessible - to everyone.
+I am also interested in bringing science to the everyday person, which was the inspiration behing "The Biomedicals", a blog and social media channels, aiming to make biology accessible - to everyone.
 
 ---
 
 ## Selected Experience
 
 
-# Research Experience Example
+# 🔬 Research Experience Example
 
-My research experience comes from the experiments I run and the protocols I build as part of my udergraduate thesis and my traineeship.
+My research experience comes from the experiments I run and the protocols I build as part of my udergraduate thesis.
 
-I have experience in wet lab techniques in the field of haematology; namely, preparation of blood samples, performing hemocompatibility assays and osmotic fragility tests, preparation and observation of microscope slides, and testing blood coagulation time. 
-
-Moreover, I presented my findings (link) at the 36th Annual Hellenic Haematology Congress, organized by the Hellenic Society of Haematology.
+I have experience in wet lab techniques in the field of haematology; namely, preparation of blood samples, performing hemocompatibility assays and osmotic fragility tests, preparation and observation of microscope slides, and testing blood coagulation time.
 
 
-# Teaching Experience Example
+# 📚 Teaching Experience Example
 
 I run "The Biomedicals", a blog and social media channels aimed to help bridge the gap between researchers and the general public.
 

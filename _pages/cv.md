@@ -16,22 +16,22 @@ I am a 5th year undergraduate student in the Department of Biomedical Sciences o
 Research experience
 ===
 July 2025 – August 2025: **Research Assistant** (Voluntary)
-* Aristotle University of Thessaloniki, Greece – Dept. of Dentistry
-* Supervisor: Dr. Tsamesidis Ioannis
+*Aristotle University of Thessaloniki, Greece – Dept. of Dentistry*
+Supervisor: Dr. Tsamesidis Ioannis
 
 November 2024 – June 2025: **Undergraduate thesis**
-* International Hellenic University, Greece – Dept. of Biomedical Sciences and Aristotle University of Thessaloniki, Greece – Dept. of Dentistry
+*International Hellenic University, Greece – Dept. of Biomedical Sciences and Aristotle University of Thessaloniki, Greece – Dept. of Dentistry*
 Title: “**Effects of *Achillea millefolium* on the physiology of red blood cells and platelets**”
-* Advisor: Dr. Tsamesidis Ioannis
+Advisor: Dr. Tsamesidis Ioannis
 
 Education
 ===
 October 2021 – Today: **Bachelor’s degree in Biomedical Sciences**
-* International Hellenic University, Greece
+*International Hellenic University, Greece*
 **Skills**: Laboratory safety, Wet lab skills (Practiced in labs regarding Biochemistry and Clinical Chemistry, Hematology, Histology and Cytology, Microbiology, Immunology and Virology, Molecular Biology and Genetics, Biotechnology, Mycology and Parasitology), Blood transfusion and obtaining biological materials, Statistical analysis, Use of data bases, Presentations, Lab report writing
 
 September 2018 – June 2021: **High school diploma with Honors**
-* 1ο General Lyceum of Eleftherio-Kordelio, Greece
+*1ο General Lyceum of Eleftherio-Kordelio, Greece*
 **Achievements**: Graduate with Honors (Grade: 19 8/10), Highest graded student in class (For the school years 2018-2019 to 2020-2021)
 
 Technical skills
@@ -43,7 +43,7 @@ Technical skills
 Work experience
 ===
 August 2022: **Summer Camp Counselor**
-* Kalivas Camp, Greece
+*Kalivas Camp, Greece*
 **Responsibilities**: Organization and leadership of a team consisting of 12-14 people of different nationalities, Use of English as the main language of communication, Acting in cooperation and consultation with other team leaders and superiors
 
 Languages

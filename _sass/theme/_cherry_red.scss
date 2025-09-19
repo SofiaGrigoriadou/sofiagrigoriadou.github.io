@@ -11,12 +11,12 @@ $marron                     : #340000;
 $noir                       : #000000;
 
 $background                 : #{$cream};
-$background-light           : mix(#fff, $background, 80%);
-$background-lighter         : mix(#fff, $background, 90%);
+$background-light           : mix(#ffffff, $cream, 80%);
+$background-lighter         : mix(#ffffff, $cream, 90%);
 $text                       : #{$marron};
 $link                       : #{$cherry-red};
-$link-dark                  : mix(#000, $link, 25%);
-$link-light                 : mix(#fff, $link, 25%);
+$link-dark                  : mix(#000000, $cherry-red, 25%);
+$link-light                 : mix(#ffffff, $cherry-red, 25%);
 
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
@@ -41,16 +41,16 @@ html[data-theme="dark"] {
     --global-bg-color                   : #{$marron};
     --global-footer-bg-color            : #{$marron};
     --global-border-color               : #{$champagne};
-    --global-dark-border-color          : #{$background-light};
+    --global-dark-border-color          : #{$cherry-red};
     --global-code-background-color      : #fafafa;
-    --global-code-text-color            : #{$darker-gray};
-    --global-fig-caption-color          : #{$light-gray};
+    --global-code-text-color            : #{$burgundy};
+    --global-fig-caption-color          : #{$cherry-red};
     --global-link-color                 : #{$champagne};
     --global-link-color-hover           : #{$cream};
-    --global-link-color-visited         : #{$cherry};
+    --global-link-color-visited         : #{$cherry-red};
     --global-masthead-link-color        : #{$cream};
-    --global-masthead-link-color-hover  : #{$background-light};
+    --global-masthead-link-color-hover  : #{$champagne};
     --global-text-color                 : #{$cream};
     --global-text-color-light           : #f3f3f3;
-    --global-thead-color                : #{$background-lighter};
+    --global-thead-color                : #{$champagne};
 }

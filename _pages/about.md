@@ -18,7 +18,7 @@ I am also interested in bringing science to the everyday person, which was the i
 
 My skills cover wet and dry lab, as a result of my coursework and my thesis. My achievements in education, my work experience, along with my above professional working proficiency in three languages and my attendances at various workshops and conferences portray a person adaptive in diverse environments, with drive to learn and excel independently or in an intercultural team.
 
----
+
 
 ## Selected Experience
 

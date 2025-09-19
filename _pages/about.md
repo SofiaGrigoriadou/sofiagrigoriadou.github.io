@@ -12,9 +12,11 @@ redirect_from:
 
 I am a final year Biomedical Sciences undergraduate student, currently searching a research facility to perform a 12-month traineeship (obligatory to complete my degree), funded by Erasmus+ grants.
 
-Under the guidance of Prof. Tsamesidis Ioannis, I completed my undergraduate thesis titled "**Effects of *Achillea millefolium* on the physiology of red blood cells and platelets**". My research enabled me to gain significant experience in handling and analyzing blood samples, and the subsequent results.
+Under the guidance of Prof. Tsamesidis Ioannis, I completed my undergraduate thesis on an intersection of hematology and botany, titled "**Effects of *Achillea millefolium* on the physiology of red blood cells and platelets**". My research enabled me to gain significant experience in handling and analyzing blood samples, and the subsequent results.
 
 I am also interested in bringing science to the everyday person, which was the inspiration behing "The Biomedicals", a blog and social media channels, aiming to make biology accessible - to everyone.
+
+My skills cover wet and dry lab, as a result of my coursework and my thesis. My achievements in education, my work experience, along with my above professional working proficiency in three languages and my attendances at various workshops and conferences portray a person adaptive in diverse environments, with drive to learn and excel independently or in an intercultural team.
 
 ---
 

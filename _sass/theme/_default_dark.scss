@@ -11,12 +11,12 @@ $marron                     : #340000;
 $noir                       : #000000;
 
 $background                 : #{$cream};
-$background-light           : mix(#fff, $background, 80%);
-$background-lighter         : mix(#fff, $background, 90%);
+$background-light           : mix(#ffffff, $cream, 80%);
+$background-lighter         : mix(#ffffff, $cream, 90%);
 $text                       : #{$marron};
 $link                       : #{$cherry-red};
-$link-dark                  : mix(#000, $link, 25%);
-$link-light                 : mix(#fff, $link, 25%);
+$link-dark                  : mix(#000000, $cherry-red, 25%);
+$link-light                 : mix(#ffffff, $cherry-red, 25%);
 
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;

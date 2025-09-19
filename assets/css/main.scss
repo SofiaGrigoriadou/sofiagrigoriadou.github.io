@@ -14,7 +14,7 @@
     "themes",
     "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
     "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
-    "theme/_cherry_red";
+    "theme/_cherry_red",
 
     "include/mixins",
     "vendor/susy/susy",
@@ -40,5 +40,4 @@
 
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
-    "vendor/font-awesome/brands"
-;
+    "vendor/font-awesome/brands";

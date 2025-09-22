@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: /
 title: "Undergraduate Biomedical Sciences Student"
 author_profile: true
 redirect_from: 

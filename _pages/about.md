@@ -8,11 +8,12 @@ redirect_from:
 ---
 
 ⚲ Dept. of Biomedical Sciences, International Hellenic University, Greece
+
 ![1749633905753.jpg](/images/1749633905753.jpg){: .align-right width="300px"}
 
 I am a final year Biomedical Sciences undergraduate student, currently searching a research facility to perform a 12-month traineeship (obligatory to complete my degree), funded by Erasmus+ grants.
 
-Under the guidance of Prof. Tsamesidis Ioannis, I completed my undergraduate thesis on an intersection of hematology and botany, titled "**Effects of *Achillea millefolium* on the physiology of red blood cells and platelets**". My research enabled me to gain significant experience in handling and analyzing blood samples, and the subsequent results.
+Under the guidance of Dr. Tsamesidis Ioannis, I completed my undergraduate thesis on an intersection of hematology and botany, titled "**Effects of *Achillea millefolium* on the physiology of red blood cells and platelets**". My research enabled me to gain significant experience in handling and analyzing blood samples, and the subsequent results.
 
 I am also interested in bringing science to the everyday person, which was the inspiration behing "The Biomedicals", a blog and social media channels, aiming to make biology accessible - to everyone.
 

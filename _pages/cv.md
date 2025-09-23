@@ -13,7 +13,9 @@ Professional Summary
 ===
 I am a 5th year undergraduate student in the Department of Biomedical Sciences of International Hellenic University. I have completed my undergraduate thesis on an intersection of hematology and botany. My skills cover wet and dry lab, as a result of my coursework and my thesis. My achievements in education, my work experience, along with my above professional working proficiency in three languages and my attendances at various workshops and conferences portray a person adaptive in diverse environments, with drive to learn and excel independently or in an intercultural team.
 
-
+---
+[My CV](/files/Sofia Grigoriadou - Resume.pdf)
+---
 
 Research experience
 ===

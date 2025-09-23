@@ -6,7 +6,7 @@ excerpt: >
       <p>My Bachelor's thesis research project on the widely-used plant <em>A. millefolium</em> (yarrow) and its effects on human blood and coagulation.</p>
     </div>
     <div style="flex-shrink: 0;">
-      <img src="/images/1749630772665.jpg" alt="Achillea millefolium grinded" width="400" height="300"/>
+      <img src="/images/1749630772665.jpg" alt="Achillea millefolium grinded" width="200" height="150"/>
     </div>
   </div>
 collection: projects

@@ -15,6 +15,7 @@ I am a 5th year undergraduate student in the Department of Biomedical Sciences o
 
 ---
 [My CV](/files/Sofia Grigoriadou - Resume.pdf)
+
 ---
 
 Research experience

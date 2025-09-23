@@ -1,6 +1,21 @@
 ---
 title: "Effects of *Achillea millefolium* on the physiology of red blood cells and platelets"
-excerpt: "My Bachelor's thesis research project on the widely-used plant *A. millefolium* (yarrow) and its effects on human blood and coagulation. <br/><img src='/images/1749630772665.jpg'>"
+excerpt: 
+<!DOCTYPE html>
+<html lang="en">
+
+<body>
+    <div class="grid-layout">
+    <img src=
+"/images/1749630772665.jpg" 
+             alt="Achillea millefolium grinded"
+            width="400" height="300">
+        <p> My Bachelor's thesis research project on the widely-used plant *A. millefolium* (yarrow) and its effects on human blood and coagulation
+        </p>
+    </div>
+</body>
+
+</html>
 collection: projects
 category: blood
 permalink: /projects/effects-of-achillea-millefolium-on-the-physiology-of-red-blood-cells-and-platelets

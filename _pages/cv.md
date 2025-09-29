@@ -22,13 +22,13 @@ Research experience
 ===
 July 2025: **Research Assistant** (Voluntary)\
 *Aristotle University of Thessaloniki, Greece – Dept. of Dentistry*\
-Supervisor: Dr. Tsamesidis Ioannis
+Supervisor: Dr. Tsamesidis Ioannis\
 **Skills**: Growth-based bacterial viability assay
 
 November 2024 – June 2025: **Undergraduate thesis**\
 *International Hellenic University, Greece – Dept. of Biomedical Sciences and Aristotle University of Thessaloniki, Greece – Dept. of Dentistry*\
 Title: “**Effects of *Achillea millefolium* on the physiology of red blood cells and platelets**”\
-Advisor: Dr. Tsamesidis Ioannis
+Advisor: Dr. Tsamesidis Ioannis\
 **Skills**: Plant extraction, preparation and treatment of blood products, haemocompatibility assay, blood staining, microscopy, blood clotting time, osmotic fragility
 
 Education

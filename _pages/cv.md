@@ -20,14 +20,16 @@ I am a 5th year undergraduate student in the Department of Biomedical Sciences o
 
 Research experience
 ===
-July 2025 – August 2025: **Research Assistant** (Voluntary)\
+July 2025: **Research Assistant** (Voluntary)\
 *Aristotle University of Thessaloniki, Greece – Dept. of Dentistry*\
 Supervisor: Dr. Tsamesidis Ioannis
+**Skills**: Growth-based bacterial viability assay
 
 November 2024 – June 2025: **Undergraduate thesis**\
 *International Hellenic University, Greece – Dept. of Biomedical Sciences and Aristotle University of Thessaloniki, Greece – Dept. of Dentistry*\
 Title: “**Effects of *Achillea millefolium* on the physiology of red blood cells and platelets**”\
 Advisor: Dr. Tsamesidis Ioannis
+**Skills**: Plant extraction, preparation and treatment of blood products, haemocompatibility assay, blood staining, microscopy, blood clotting time, osmotic fragility
 
 Education
 ===
@@ -56,7 +58,7 @@ Languages
 **Greek**: Native language\
 **English**: Proficient knowledge (C2 Level, ECPE Certification, 2016)\
 **French**: Intermediate knowledge (B2 Level, Institut français de Thessalonique, 2024)\
-**Italian**: Basic knowledge (A2 level, ongoing)
+**Italian**: Basic knowledge (A1 level, ongoing)
 
 Certifications
 ===

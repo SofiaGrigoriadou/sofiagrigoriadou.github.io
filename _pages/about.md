@@ -24,6 +24,6 @@ My skills cover wet and dry lab, as a result of my coursework and my thesis. My 
 
 # 🔬 Research Experience
 
-My research experience comes from the experiments I run and the protocols I build as part of my udergraduate thesis.
+My research experience comes from the experiments I run and the protocols I build as part of my undergraduate thesis.
 
 I have experience in wet lab techniques in the field of haematology; namely, preparation of blood samples, performing hemocompatibility assays and osmotic fragility tests, preparation and observation of microscope slides, and testing blood coagulation time.

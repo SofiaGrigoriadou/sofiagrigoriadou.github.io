@@ -6,7 +6,7 @@ excerpt: >
       <p>My Bachelor's thesis research project on the widely-used plant <em>A. millefolium</em> (yarrow) and its effects on human blood and coagulation.</p>
     </div>
     <div style="flex-shrink: 0;">
-      <img src="/images/1749630772665.jpg" alt="Achillea millefolium grinded" width="200" height="150"/>
+      <img src="/images/_projects/undergrad_thesis/1749630772665.jpg" alt="Achillea millefolium grinded" width="200" height="150"/>
     </div>
   </div>
 collection: projects
@@ -21,6 +21,15 @@ The results showed that the extract at concentrations of >30,3 ng/ml (4&deg;C an
 ---
 
 <div class="masonry-gallery">
-  <img src="/assets/images/post1/img1.jpg" alt="1">
-  <img src="/assets/images/post1/img2.jpg" alt="2">
+  <img src="/images/_projects/undergrad_thesis/1749630000505.jpg" alt="Microscope Slide">
+  <img src="/images/_projects/undergrad_thesis/1749630299600.jpg" alt="Microscope Slide">
+  <img src="/images/_projects/undergrad_thesis/1749630772588.jpg" alt="Microscope Slide">
+  <img src="/images/_projects/undergrad_thesis/1749630772665.jpg" alt="Microscope Slide">
+  <img src="/images/_projects/undergrad_thesis/1749633905753.jpg" alt="Microscope Slide">
+  <img src="/images/_projects/undergrad_thesis/1749633905753.jpg" alt="Microscope Slide">
+  <img src="/images/_projects/undergrad_thesis/1749634108472.jpg" alt="Microscope Slide">
+  <img src="/images/_projects/undergrad_thesis/1749634108608.jpg" alt="Microscope Slide">
+  <img src="/images/_projects/undergrad_thesis/1749634108855.jpg" alt="Microscope Slide">
+  <img src="/images/_projects/undergrad_thesis/1750940291382.jpg" alt="Microscope Slide">
+  <img src="/images/_projects/undergrad_thesis/1750940655834.jpg" alt="Microscope Slide">
 </div>

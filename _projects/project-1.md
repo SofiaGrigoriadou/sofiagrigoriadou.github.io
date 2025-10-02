@@ -17,3 +17,14 @@ permalink: /projects/effects-of-achillea-millefolium-on-the-physiology-of-red-bl
 Achillea millefolium is a medical plant that has been used for millennia to treat hemorrhage and open wounds, based on folkloric evidence of amelioration of coagulation time and healing properties. Multiple studies have been conducted to examine this matter, but few focus on the red blood cells. The object of this study was to investigate the effects of a methanolic extract from Achillea millefolium on the physiology and morphology of normal red blood cells.
 
 The results showed that the extract at concentrations of >30,3 ng/ml (4&deg;C and 37&deg;C, 1 h) and >12,82 ng/ml (4&deg;C and 37&deg;C, 24 h) produces hemolytic activity against 2% microhematocrit, but no morphological changes were observed microscopically. The extract also presented osmoprotectant activity at low ionic concentrations (<0,40% NaCl), and reduced blood clotting time by 29,34%. Lastly, using the probe H2DCFDA, the erythrocytes incubated at 4&deg;C displayed an insignificant increase in ROS in proportion to the dose of the extract, while those at 37&deg;C did not reveal a fluctuation of their concentration.
+
+---
+
+## My Gallery
+
+<div class="masonry-gallery">
+  <img src="/assets/images/post1/image1.jpg" alt="Image 1">
+  <img src="/assets/images/post1/image2.jpg" alt="Image 2">
+  <img src="/assets/images/post1/image3.jpg" alt="Image 3">
+</div>
+

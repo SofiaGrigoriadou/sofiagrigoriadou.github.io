@@ -21,21 +21,6 @@ The results showed that the extract at concentrations of >30,3 ng/ml (4&deg;C an
 ---
 
 <div class="masonry-gallery">
-  <img src="/assets/images/post1/image1.jpg" alt="Image 1">
-  <img src="/assets/images/post1/image2.jpg" alt="Image 2">
-  <img src="/assets/images/post1/image3.jpg" alt="Image 3">
+  <img src="/assets/images/post1/img1.jpg" alt="1">
+  <img src="/assets/images/post1/img2.jpg" alt="2">
 </div>
-
-<style>
-  .masonry-gallery {
-  column-count: 3;
-  column-gap: 1rem;
-}
-
-  .masonry-gallery img {
-  width: 100%;
-  margin-bottom: 1rem;
-  border-radius: 8px;
-  display: block;
-}
-</style>

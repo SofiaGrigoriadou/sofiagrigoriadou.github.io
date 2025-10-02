@@ -9,7 +9,7 @@ redirect_from:
 
 ⚲ Dept. of Biomedical Sciences, International Hellenic University, Greece
 
-![1749633905753.jpg](/images/_projects/undergrad_thesis/1749633905753.jpg){: .align-right width="300px"}
+![1749633905753.jpg](/images/1749633905753.jpg){: .align-right width="300px"}
 
 I am a final year Biomedical Sciences undergraduate student, currently searching a research facility to perform a 6-month traineeship (obligatory to complete my degree), funded by Erasmus+ grants.
 

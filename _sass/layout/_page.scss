@@ -399,3 +399,31 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/*
+   Masonry gallery
+   ========================================================================== */
+
+.masonry-gallery {
+  column-count: 3;
+  column-gap: 1rem;
+}
+
+.masonry-gallery img {
+  width: 100%;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .masonry-gallery {
+    column-count: 2;
+  }
+}
+
+@media (max-width: 480px) {
+  .masonry-gallery {
+    column-count: 1;
+  }
+}

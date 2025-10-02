@@ -28,3 +28,16 @@ The results showed that the extract at concentrations of >30,3 ng/ml (4&deg;C an
   <img src="/assets/images/post1/image3.jpg" alt="Image 3">
 </div>
 
+<style>
+  .masonry-gallery {
+  column-count: 3;
+  column-gap: 1rem;
+}
+
+  .masonry-gallery img {
+  width: 100%;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  display: block;
+}
+</style>

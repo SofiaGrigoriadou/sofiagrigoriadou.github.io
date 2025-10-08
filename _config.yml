@@ -163,6 +163,8 @@ include:
   - _pages
   - files
   - images
+  - images/_projects
+  - images/_projects/undergrad_thesis
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

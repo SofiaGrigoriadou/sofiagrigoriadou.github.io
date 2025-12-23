@@ -35,12 +35,13 @@ Relative work experience
 ===
 December 2025 – now: **Trainee Biomedical Scientist**\
 *“Theagenio” Anticancer Hospital of Thessaloniki*\
-**Responsibilities**: Organization and leade
+Supervisor: Fotiadis Charis\
+**Responsibilities**: Blood collection, Hematology and biochemistry analyzer systems
 
 November 2025: **Research Assistant** (Voluntary)\
 *International Hellenic University, Greece – Dept. of Biomedical Sciences and Aristotle University of Thessaloniki, Greece – Dept. of Dentistry*\
 Supervisor: Dr. Tsamesidis Ioannis\
-**Skills**: Setting up and organizing a new laboratory, overseeing undergraduate students, assisting with cell cultures
+**Responsibilities**: Setting up and organizing a new laboratory, Overseeing and educating higher-education students on new protocols, Assisting with cell cultures
 
 Education
 ===

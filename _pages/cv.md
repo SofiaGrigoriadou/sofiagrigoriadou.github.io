@@ -11,7 +11,7 @@ redirect_from:
 
 Professional Summary
 ===
-I am a 5th year undergraduate student of Medical Laboratory Science. I have completed my undergraduate thesis on an intersection of hematology and botany. My skills cover wet and dry lab, as a result of my coursework and my thesis. My achievements in education, my work experience, along with my above professional working proficiency in three languages and my attendances at various workshops and conferences portray a person adaptive in diverse environments, with drive to learn and excel independently or in an intercultural team.
+I am a final year undergraduate student of Biomedical Sciences. I have completed my undergraduate thesis on an intersection of hematology and botany. My skills cover wet and dry lab, as a result of my research experience and my traineeship. My achievements in education, my work experience, along with my above professional working proficiency in three languages and my attendances at various workshops and conferences portray a person adaptive in diverse environments, with drive to learn and excel independently or in an intercultural team.
 
 ---
 [My CV](/files/Sofia Grigoriadou - Resume.pdf)
@@ -20,28 +20,30 @@ I am a 5th year undergraduate student of Medical Laboratory Science. I have comp
 
 Research experience
 ===
-July 2025: **Research Assistant** (Voluntary)\
+July 2025 – Now (intermittent): **Research Assistant**\
 *Aristotle University of Thessaloniki, Greece – Dept. of Dentistry*\
 Supervisor: Dr. Tsamesidis Ioannis\
-**Skills**: Growth-based bacterial viability assay
+**Skills**: Aseptic technique, Bacteria culture, Growth-based bacterial viability assay, Disk and Well diffusion assay, Research article writing
+**Responsibilities**: Volunteering 12 hours/week, Setting up and organizing a laboratory, Mentoring higher-education students
 
 November 2024 – June 2025: **Undergraduate thesis**\
-*International Hellenic University, Greece – Dept. of Biomedical Sciences and Aristotle University of Thessaloniki, Greece – Dept. of Dentistry*\
+*International Hellenic University, Greece – Dept. of Biomedical Sciences* and *Aristotle University of Thessaloniki, Greece – Dept. of Dentistry*\
 Title: “**Effects of *Achillea millefolium* on the physiology of red blood cells and platelets**”\
 Advisor: Dr. Tsamesidis Ioannis\
 **Skills**: Plant extraction, preparation and treatment of blood products, hemocompatibility assay, blood staining, microscopy, blood clotting time, osmotic fragility
 
 Relative work experience
 ===
-December 2025 – now: **Trainee Biomedical Scientist**\
+December 2025 – April 2026: **Trainee Biomedical Scientist**\
 *“Theagenio” Anticancer Hospital of Thessaloniki*\
 Supervisor: Fotiadis Charis\
-**Responsibilities**: Blood collection, Hematology and biochemistry analyzer systems
+**Responsibilities**: Blood collection, Hematology and biochemistry analyzer systems, Cell cultures, Liquid-based cytology, Microtomy, Sample processing, Slide preparation and staining
 
-November 2025: **Research Assistant** (Voluntary)\
-*International Hellenic University, Greece – Dept. of Biomedical Sciences and Aristotle University of Thessaloniki, Greece – Dept. of Dentistry*\
-Supervisor: Dr. Tsamesidis Ioannis\
-**Responsibilities**: Setting up and organizing a new laboratory, Overseeing and educating higher-education students on new protocols, Assisting with cell cultures
+Publications
+===
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Education
 ===
@@ -55,9 +57,10 @@ September 2018 – June 2021: **High school diploma with Honors**\
 
 Technical skills
 ===
-**Hematology**: Preparation of blood samples, Hemocompatibility assay, Osmotic fragility test, Preparation and observation of microscope slides, Blood coagulation time
-
-**Software**: ECDL Office Essentials (Word, Excel, Internet, Mail), GraphPad Prism 10
+**Hematology**: Preparation of blood samples, Hemocompatibility assay, Osmotic fragility test, Preparation and observation of microscope slides, Blood coagulation time\
+**Microbiology**: Cell culture, Growth-based bacterial viability assay, Disk and Well diffusion assay\
+**Medical laboratory**: Aseptic technique, Pipetting, Microscopy\
+**Software**: ECDL Office Essentials (Word, Excel, Internet, Mail), GraphPad Prism 10, Canva
 
 Other work experience
 ===
@@ -74,17 +77,11 @@ Languages
 
 Certifications
 ===
-Certificates of attendance of multiple conferences and workshops focusing on Biomedical Sciences
+Certificates of attendance of multiple conferences and workshops focusing on Biomedical Sciences, Biology, Chemistry, Pharmacy, and Medicine
 
 Other Skills
 ===
 Flexibility and Adaptability, Multi-tasking, Written communication, Emphasis in detail, Fast problem-solving skills, Strategic thought-process
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======

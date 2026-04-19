@@ -35,7 +35,7 @@ Advisor: Dr. Tsamesidis Ioannis\
 Relative work experience
 ===
 December 2025 – April 2026: **Trainee Biomedical Scientist**\
-*“Theagenio” Anticancer Hospital of Thessaloniki*\
+*["Theagenio" Anticancer Hospital of Thessaloniki](https://theageneio.gov.gr/el/)*\
 Supervisor: Fotiadis Charis\
 **Responsibilities**: Blood collection, Hematology and biochemistry analyzer systems, Cell cultures, Liquid-based cytology, Microtomy, Sample processing, Slide preparation and staining
 

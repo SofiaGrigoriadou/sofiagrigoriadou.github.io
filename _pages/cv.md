@@ -23,7 +23,7 @@ Research experience
 July 2025 – Now (intermittent): **Research Assistant**\
 *Aristotle University of Thessaloniki, Greece – Dept. of Dentistry*\
 Supervisor: Dr. Tsamesidis Ioannis\
-**Skills**: Aseptic technique, Bacteria culture, Growth-based bacterial viability assay, Disk and Well diffusion assay, Research article writing
+**Skills**: Aseptic technique, Bacteria culture, Growth-based bacterial viability assay, Disk and Well diffusion assay, Research article writing\
 **Responsibilities**: Volunteering 12 hours/week, Setting up and organizing a laboratory, Mentoring higher-education students
 
 November 2024 – June 2025: **Undergraduate thesis**\

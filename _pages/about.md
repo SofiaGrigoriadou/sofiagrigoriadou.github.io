@@ -7,15 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-⚲ Dept. of Biomedical Sciences, International Hellenic University, Greece
+⚲ Dept. of Medicine, RWTH Aachen University, Germany
 
 ![work-bench.jpg](/images/projects/undergrad_thesis/work-bench.jpg){: .align-right width="300px"}
 
-I am a final year Biomedical Sciences undergraduate student, searching a research facility to perform an internship, funded by Erasmus+ after-placement grants, starting summer 2026.
+I am a Biomedical Sciences graduate, to perform a research internship, funded by Erasmus+ after-placement grants, starting September 2026.
 
-Starting from December 2025 to April 2026, I am an intern at ["Theagenio" Anticancer Hospital of Thessaloniki](https://theageneio.gov.gr/el/), rotating the hospital's Hematology, Biochemistry, Pathology, Biopathology, Cytology, and Blood Donation Departments.
+From December 2025 to April 2026, I was an intern at ["Theagenio" Anticancer Hospital of Thessaloniki](https://theageneio.gov.gr/el/), rotating the hospital's Hematology, Biochemistry, Pathology, Biopathology, Cytology, and Blood Donation Departments.
 
 Under the guidance of Dr. Tsamesidis Ioannis, I completed my undergraduate thesis on an intersection of hematology and botany, titled "**Effects of *Achillea millefolium* on the physiology of red blood cells and platelets**". My research enabled me to gain significant experience in handling and analyzing blood samples, and the subsequent results.
+
+I furthered my research and wet lab skills by expanding the project to include extract-bacteria interactions, staying as an undergraduate research assistant under Dr. Tsamesidis' supervision.
 
 My skills cover wet and dry lab, as a result of my research experience and my traineeship. My achievements in education, my work experience, along with my above professional working proficiency in three languages and my attendances at various workshops and conferences portray a person adaptive in diverse environments, with drive to learn and excel independently or in an intercultural team. I am always open to learning from my more experienced colleagues, as well as my own errors. I am a deeply curious person, and strive to soon expand my scope of knowledge through a Master's degree.
 

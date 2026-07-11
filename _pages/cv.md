@@ -11,22 +11,22 @@ redirect_from:
 
 Professional Summary
 ===
-I am a final year undergraduate student of Biomedical Sciences. I have completed my undergraduate thesis on an intersection of hematology and botany. My skills cover wet and dry lab, as a result of my research experience and my traineeship. My achievements in education, my work experience, along with my above professional working proficiency in three languages and my attendances at various workshops and conferences portray a person adaptive in diverse environments, with drive to learn and excel independently or in an intercultural team.
+I am a graduate Biomedical Scientist. I have completed my undergraduate thesis on an intersection of hematology and botany. My skills cover wet and dry lab, as a result of my research experience and my traineeship. My achievements in education, my work experience, along with my above professional working proficiency in three languages and my attendances at various workshops and conferences portray a person adaptive in diverse environments, with drive to learn and excel independently or in an intercultural team.
 
 ---
-[My CV](/files/Sofia Grigoriadou - Resume.pdf)
+[My CV](/files/Sofia Grigoriadou Resume.pdf)
 
 ---
 
 Research experience
 ===
-July 2025 – Now (intermittent): **Research Assistant**\
+July 2025 – April 2026: **Undergraduate Research Assistant**\
 *Aristotle University of Thessaloniki, Greece – Dept. of Dentistry*\
 Supervisor: Dr. Tsamesidis Ioannis\
 **Skills**: Aseptic technique, Bacteria culture, Growth-based bacterial viability assay, Disk and Well diffusion assay, Research article writing\
 **Responsibilities**: Volunteering 12 hours/week, Setting up and organizing a laboratory, Mentoring higher-education students
 
-November 2024 – June 2025: **Undergraduate thesis**\
+November 2024 – June 2025: **Undergraduate Thesis Researcher**\
 *International Hellenic University, Greece – Dept. of Biomedical Sciences* and *Aristotle University of Thessaloniki, Greece – Dept. of Dentistry*\
 Title: “**Effects of *Achillea millefolium* on the physiology of red blood cells and platelets**”\
 Advisor: Dr. Tsamesidis Ioannis\
@@ -47,11 +47,11 @@ Publications
 
 Education
 ===
-October 2021 – Today: **Bachelor’s degree in Biomedical Sciences**\
+June 2026: **Bachelor’s degree in Biomedical Sciences**\
 *International Hellenic University, Greece*\
 **Skills**: Laboratory safety, Wet lab skills (Practiced in labs regarding Biochemistry and Clinical Chemistry, Hematology, Histology and Cytology, Microbiology, Immunology and Virology, Molecular Biology and Genetics, Biotechnology, Mycology and Parasitology), Blood transfusion and obtaining biological materials, Statistical analysis, Use of data bases, Presentations, Lab report writing
 
-September 2018 – June 2021: **High school diploma with Honors**\
+June 2021: **High school diploma with Honors**\
 *1ο General Lyceum of Eleftherio-Kordelio, Greece*\
 **Achievements**: Graduate with Honors (Grade: 19 8/10), Highest graded student in class (For the school years 2018-2019 to 2020-2021)
 
@@ -77,7 +77,7 @@ Languages
 
 Certifications
 ===
-Certificates of attendance of multiple conferences and workshops focusing on Biomedical Sciences, Biology, Chemistry, Pharmacy, and Medicine
+Entrepreneurship and Strategy Formulation for the Future in an Environment of Uncertainty. National and Kapodistrian University of Athens. Online. May 2026.
 
 Other Skills
 ===

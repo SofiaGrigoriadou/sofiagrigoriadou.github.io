@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-⚲ Dept. of Medicine, RWTH Aachen University, Germany
+⚲ Dept. of Medicine, RWTH Uniklinik, Germany
 
 ![work-bench.jpg](/images/projects/undergrad_thesis/work-bench.jpg){: .align-right width="300px"}
 
-I am a Biomedical Sciences graduate, to perform a research internship, funded by Erasmus+ after-placement grants, starting September 2026.
+I am a Biomedical Scientist and a Visiting Student Researcher under Dr Martin Zenke, in RWTH, funded by Erasmus+ grants, since September 2026.
 
 From December 2025 to April 2026, I was an intern at ["Theagenio" Anticancer Hospital of Thessaloniki](https://theageneio.gov.gr/el/), rotating the hospital's Hematology, Biochemistry, Pathology, Biopathology, Cytology, and Blood Donation Departments.
 

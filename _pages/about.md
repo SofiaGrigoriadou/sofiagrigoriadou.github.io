@@ -11,7 +11,7 @@ redirect_from:
 
 ![work-bench.jpg](/images/projects/undergrad_thesis/work-bench.jpg){: .align-right width="300px"}
 
-I am a Visiting Student Researcher under Dr Martin Zenke, in RWTH, funded by Erasmus+ grants, since September 2026, contributing on human iPSCs and megakaryocyte development.
+I am a Visiting Student Researcher under Dr Martin Zenke, in RWTH, funded by Erasmus+ grants, since September 2026, contributing on the project "**Generation and Characterization of iPSC-Derived Megakaryocytes for Drug Response Studies**".
 
 From December 2025 to April 2026, I was an intern at ["Theagenio" Anticancer Hospital of Thessaloniki](https://theageneio.gov.gr/el/), rotating the hospital's Hematology, Biochemistry, Pathology, Biopathology, Cytology, and Blood Donation Departments.
 

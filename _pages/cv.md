@@ -25,7 +25,7 @@ September 2026 – February 2027 (contract): **Visiting Student Researcher**\
 Title: “**Generation and Characterization of iPSC-Derived Megakaryocytes for Drug Response Studies**”\
 Mentor: Dr. Martin Zenke\
 **Skills**: Human iPSC culture, Hematopoietic (Megakaryocyte) differentiation, Flow cytometry (FACS), RNA extraction, cDNA synthesis, RT-qPCR, Gene expression analysis, Drug response studies, Data analysis and visualization, Experimental planning\
-**Responsibilities**: iPSC-derived megakaryocyte generation and characterization, PDE3A and SLFN12 expression analysis, Experimental data analysis and presentation, Scientific discussions and reporting
+**Responsibilities**: iPSC-derived megakaryocyte generation and characterization, PDE3A and SLFN12 expression analysis, Experimental data analysis and presentation, Scientific discussions and reporting\
 Funded by Erasmus+ grants
 
 July 2025 – April 2026: **Undergraduate Research Assistant**\

@@ -11,7 +11,7 @@ excerpt: >
   </div>
 collection: projects
 category: blood
-date: 2024-11
+date: 2024-11-01
 permalink: /projects/the-effects-of-achillea-millefolium-on-the-physiology-of-red-blood-cells-and-platelets
 ---
 

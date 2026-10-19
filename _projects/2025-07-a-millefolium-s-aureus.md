@@ -8,7 +8,7 @@ excerpt: >
   </div>
 collection: projects
 category: bacteria
-date: 2025-07
+date: 2025-07-01
 permalink: /projects/antibacterial-and-antioxidant-effects-of-achillea-millefolium-on-staphylococcus-aureus
 ---
 

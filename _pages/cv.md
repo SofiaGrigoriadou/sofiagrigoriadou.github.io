@@ -77,11 +77,16 @@ June 2026: **Bachelor’s degree in Biomedical Sciences**\
 
 Technical skills
 ===
-**Hematology and blood-cell research**: Hemocompatibility assays, osmotic-fragility testing, clotting-time measurements, blood sample preparation, microscopy and blood staining.\
-**Cell culture and stem-cell research**: Human iPSC culture and maintenance, cell thawing and passaging, MEF culture preparation, suspension embryoid-body culture maintenance.\
-**Microbiology**: Bacterial culture, CellTiter-Glo-based viability assay, CFU assay protocol development, disk and well diffusion assays, aseptic technique.\
-**Data handling and visualization**: Excel-based data cleaning and organization; GraphPad Prism for graph generation; t-tests and two-way ANOVA; introductory R programming.\
-**Clinical laboratory methods**: Exposure to hematology and clinical biochemistry analyzers, sample processing, liquid-based cytology, microtomy, and slide preparation.\
+**Hematology and blood-cell research**: Hemocompatibility assays, osmotic-fragility testing, clotting-time measurements, blood sample preparation, microscopy and blood staining.
+
+**Cell culture and stem-cell research**: Human iPSC culture and maintenance, cell thawing and passaging, MEF culture preparation, suspension embryoid-body culture maintenance.
+
+**Microbiology**: Bacterial culture, CellTiter-Glo-based viability assay, CFU assay protocol development, disk and well diffusion assays, aseptic technique.
+
+**Data handling and visualization**: Excel-based data cleaning and organization; GraphPad Prism for graph generation; t-tests and two-way ANOVA; introductory R programming.
+
+**Clinical laboratory methods**: Exposure to hematology and clinical biochemistry analyzers, sample processing, liquid-based cytology, microtomy, and slide preparation.
+
 **Flow cytometry**: Observational exposure to flow-cytometry workflows.
 
 Languages

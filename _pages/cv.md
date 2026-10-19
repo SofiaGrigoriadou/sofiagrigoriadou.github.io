@@ -25,7 +25,6 @@ September 2026 – February 2027 (contract): **Visiting Student Researcher**\
 Title: “**Generation and Characterization of iPSC-Derived Megakaryocytes for Drug Response Studies**”\
 Mentor: Dr. Martin Zenke\
 **Skills**: Human iPSC culture, Hematopoietic (Megakaryocyte) differentiation, Flow cytometry (FACS), RNA extraction, cDNA synthesis, RT-qPCR, Gene expression analysis, Drug response studies, Data analysis and visualization, Experimental planning\
-**Responsibilities**: iPSC-derived megakaryocyte generation and characterization, PDE3A and SLFN12 expression analysis, Experimental data analysis and presentation, Scientific discussions and reporting\
 Funded by Erasmus+ grants
 
 July 2025 – April 2026: **Undergraduate Research Assistant**\
@@ -85,12 +84,29 @@ Languages
 
 Certifications
 ===
+Adult Educator Training: Comprehensive Training and Practicum Program with Micro-teaching Session. National and Kapodistrian University of Athens. Online. October 2026.
+
+[R Programming](https://coursera.org/share/02f8b1034fa1b05d586d5befccfd6efe). Johns Hopkins University on Coursera. Online. September 2026.
+
 Entrepreneurship and Strategy Formulation for the Future in an Environment of Uncertainty. National and Kapodistrian University of Athens. Online. May 2026.
 
 Other Skills
 ===
 Flexibility and Adaptability, Multi-tasking, Written communication, Emphasis in detail, Fast problem-solving skills, Strategic thought-process
-  
+
+Service and leadership
+======
+
+July 2026 – Present: **Founder, Lead Organizer, and Discussion Chairperson**\
+Dear Reader Book Club — Virtual / Greek | [Archive (greek)](https://dear-reader.letterbucket.com).
+**Core Mission**: An interdisciplinary literary community focused on analyzing the socio-cultural impacts and modern pop-culture evolution of influential historical and contemporary literature.
+**Skills**: Project management, Interdisciplinary analysis, Seminar facilitation, Strategic communication, Multi-tier curriculum planning, Digital platform moderation, Community outreach, Event logistics, Timeline and milestone tracking
+**Responsibilities**:
+• Conceptualized and built the organization from the ground up, directing community outreach to scale active membership to 49 participants.
+• Curated monthly syllabi and moderated deep-dive seminars evaluating the thematic relationships between canonical texts (e.g., Rebecca, Romeo and Juliet) and modern pop music culture.
+• Spearheaded high-capacity "seasonal reading marathons" requiring fast-paced timeline tracking.
+• Coordinated monthly scheduling, digital hub curation, and multi-channel communications to optimize member retention and engagement.
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -103,6 +119,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
- 

@@ -98,13 +98,13 @@ Service and leadership
 ======
 
 July 2026 – Present: **Founder, Lead Organizer, and Discussion Chairperson**\
-Dear Reader Book Club — Virtual / Greek | [Archive (greek)](https://dear-reader.letterbucket.com).
-**Core Mission**: An interdisciplinary literary community focused on analyzing the socio-cultural impacts and modern pop-culture evolution of influential historical and contemporary literature.
-**Skills**: Project management, Interdisciplinary analysis, Seminar facilitation, Strategic communication, Multi-tier curriculum planning, Digital platform moderation, Community outreach, Event logistics, Timeline and milestone tracking
-**Responsibilities**:
-• Conceptualized and built the organization from the ground up, directing community outreach to scale active membership to 49 participants.
-• Curated monthly syllabi and moderated deep-dive seminars evaluating the thematic relationships between canonical texts (e.g., Rebecca, Romeo and Juliet) and modern pop music culture.
-• Spearheaded high-capacity "seasonal reading marathons" requiring fast-paced timeline tracking.
+Dear Reader Book Club — Virtual / Greek | [Archive (greek)](https://dear-reader.letterbucket.com)\
+**Core Mission**: An interdisciplinary literary community focused on analyzing the socio-cultural impacts and modern pop-culture evolution of influential historical and contemporary literature.\
+**Skills**: Project management, Interdisciplinary analysis, Seminar facilitation, Strategic communication, Multi-tier curriculum planning, Digital platform moderation, Community outreach, Event logistics, Timeline and milestone tracking\
+**Responsibilities**:\
+• Conceptualized and built the organization from the ground up, directing community outreach to scale active membership to 49 participants.\
+• Curated monthly syllabi and moderated deep-dive seminars evaluating the thematic relationships between canonical texts (e.g., Rebecca, Romeo and Juliet) and modern pop music culture.\
+• Spearheaded high-capacity "seasonal reading marathons" requiring fast-paced timeline tracking.\
 • Coordinated monthly scheduling, digital hub curation, and multi-channel communications to optimize member retention and engagement.
 
 Talks

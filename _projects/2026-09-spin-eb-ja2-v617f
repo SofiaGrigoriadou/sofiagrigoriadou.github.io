@@ -4,9 +4,11 @@ excerpt: >
   <div style="display: flex; align-items: center; justify-content: space-between;">
     <div style="flex: 1; padding-right: 20px;">
       <p>Erasmus+ funded research internship on the formation of spin embryoid bodies, their differentiation into megakaryocytes and drug response studies to molecular glues.</p>
+    </div>
   </div>
 collection: projects
 category: stem-cells
+date: 2026-09
 permalink: /projects/generation-characterization-ipsc-derived-megakaryocytes
 ---
 

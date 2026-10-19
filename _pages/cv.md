@@ -24,7 +24,7 @@ September 2026 – February 2027 (contract): **Visiting Student Researcher**\
 *RWTH Aachen University, Germany – Faculty of Medicine* and *RWTH University Hospital, Germany – Dept. of Medicine IV, Haematology, Oncology, and Stem Cell Transplantation*\
 Title: “**Generation and Characterization of iPSC-Derived Megakaryocytes for Drug Response Studies**”\
 Mentor: Dr. Martin Zenke\
-**Skills**: Human iPSC culture, Hematopoietic (Megakaryocyte) differentiation, Flow cytometry (FACS), RNA extraction, cDNA synthesis, RT-qPCR, Gene expression analysis, Drug response studies, Data analysis and visualization, Experimental planning\
+**Skills**: Human iPSC culture, Hematopoietic (Megakaryocyte) differentiation, Flow cytometry (FACS), Drug response studies, Experimental planning\
 Funded by Erasmus+ grants
 
 July 2025 – April 2026: **Undergraduate Research Assistant**\

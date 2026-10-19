@@ -4,9 +4,11 @@ excerpt: >
   <div style="display: flex; align-items: center; justify-content: space-between;">
     <div style="flex: 1; padding-right: 20px;">
       <p>Independent research project on the widely-used plant <em>A. millefolium</em> (yarrow) and its effects on the Gram-positive bacterium <em>S. aureus</em>.</p>
+    </div>
   </div>
 collection: projects
 category: bacteria
+date: 2025-07
 permalink: /projects/antibacterial-and-antioxidant-effects-of-achillea-millefolium-on-staphylococcus-aureus
 ---
 
